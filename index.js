@@ -28,7 +28,7 @@
 %----------CONTACT DETAILS----------
 \begin{center}
     {\Huge \scshape Shriyansh Kumar} \\ \vspace{1pt}
-    +91 9351864035 ~ \href{mailto:Shriyansh7870@gmail.com}{Shriyansh7870@gmail.com} \\
+    +91 9351864035 ~ \href{mailto:Shriyansh7870@gmail.com}{Shriyansh4035@gmail.com} \\
     \href{https://www.linkedin.com/in/shri7870/}{linkedin.com/in/Shriyansh} ~
     \href{https://github.com/Shriyansh7870}{github.com/Shriyansh7870} ~
     \href{https://next-portofoli-git-main-shriyansh-kumars-projects.vercel.app/}{Portfolio}
@@ -48,9 +48,15 @@
     \item \textbf{Full Stack Developer} \hfill \textbf{Nov 2023 - Present} \\
     \textbf{Umenit Solution LLP, Gurugram, India}
     \begin{itemize}[leftmargin=0.15in, label={}]
-        \item Developed and integrated AI-based Umenit Bots into a website, increasing user engagement by 40\%.
-        \item Led the development of Parking Arms project using Next.js, TypeScript, and Tailwind CSS, improving website performance and user base by 60\%.
-        \item Built health management systems with React.js and Tailwind CSS, utilizing Redux for state management and GraphQL for API interaction.
+        \item \textbf{Umenit AI Bot } \hfill \href{https://agent.umenit.ai/auth/signin}{\underline{View Live Project}} \\
+    Developed and integrated AI-based Umenit Bots into a website, increasing user engagement by 40\%.
+         \item \textbf{Parking Arms  } \hfill \href{https://devapp.swiftstay.com/}{\underline{View Live Project}} \\
+   Led the development of Parking Arms project using Next.js, TypeScript, and Tailwind CSS, improving website
+performance and user base by 60\%.
+
+      \item \textbf{LinkStaf} \hfill \href{https://dev.linkhealthstaff.com/}{\underline{View Live Project}} \\
+   Built health management systems with React.js and Tailwind CSS, utilizing Redux for state management and
+GraphQL for API interaction
     \end{itemize}
     
     \item \textbf{Full Stack Developer Intern} \hfill \textbf{Sep 2022 - Apr 2023} \\
@@ -79,20 +85,17 @@
 \begin{itemize}[leftmargin=0.15in, label={}]
     \item \textbf{B.Tech in Information Technology} \hfill \textbf{2019 - 2023} \\
     Bengal College of Engineering and Technology, Durgapur \\
-    CGPA: 8.9/10. Relevant Courses: Data Structures, Algorithms, Web Development.
+    CGPA: 8.9/10.
 \end{itemize}
 
 %-----------Certifications-----------
 \section{Certifications}
 \begin{itemize}[leftmargin=0.15in, label={}]
     \item Full Stack Development Program, PrepByte Academy
-    \item MongoDB Certified Developer, MongoDB University
+   
 \end{itemize}
 
 %-----------Extracurricular-----------
-\section{Extracurricular}
-\begin{itemize}[leftmargin=0.15in, label={}]
-    \item Cricket Enthusiast and Culinary Explorer, engaging in team sports and cooking during leisure time.
-\end{itemize}
+
 
 \end{document}
